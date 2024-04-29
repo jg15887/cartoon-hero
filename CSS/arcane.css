@@ -1,0 +1,54 @@
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+body{
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0px;
+}
+
+header{
+	margin: 0px;
+	text-align: center;
+	background-color: black;
+}
+
+.runeterra
+	img {
+		max-width: 750px;
+		padding: 0 30px 30px 75px;
+		float: right;
+	}
+
+.text-box {
+	padding: 30px;
+}
+
+.text-box h1 {
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.text-box h2 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.text-box p1 {
+	text-align: justify;
+	font-size: 30px;
+}
+
+.text-box p2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.text-box p3 {
+	text-align: right;
+	font-size: 30px;
+}
