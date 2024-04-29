@@ -1,0 +1,83 @@
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+body{
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0px;
+}
+
+header{
+	margin: 0px;
+	text-align: center;
+	background-color: black;
+}
+
+.runeterra
+	img {
+		max-width: 750px;
+		padding: 0 30px 30px 75px;
+		float: right;
+	}
+
+.piltover
+	img {
+		max-width: 750px;
+		padding: 0 75px 30px 30px;
+		float: left;
+	}
+
+.zaun
+	img {
+		max-width: 750px;
+		padding: 0 30px 30px 75px;
+		float: right;
+	}
+
+.noxus
+	img {
+		max-width: 750px;
+		padding: 0 75px 30px 30px;
+		float: left;
+	}
+
+.text-box {
+	padding: 30px;
+}
+
+.text-box h1 {
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.text-box h2 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.text-box p1 {
+	text-align: justify;
+	font-size: 30px;
+}
+
+.text-box p2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.caption {
+	padding: 0 0 0 1600px;
+	text-align: right;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.sectiontitle {
+	font-size: 50px;
+	text-align: center;
+
+}
