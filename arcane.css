@@ -116,7 +116,7 @@ header{
 }
 
 .text-box {
-	text-align: center;
+	text-align: justify;
 }
 
 .text-box h1 {
@@ -131,7 +131,7 @@ header{
 }
 
 .text-box p1 {
-	text-align: center;
+	text-align: justify;
 	font-size: 30px;
 }
 
